@@ -1,7 +1,7 @@
 #Indian Kodi
 A repository full of the best customized existing and brand new plugins for the best Kodi experience for Indians!
 
-#On Dmeand
+#On Demand
 This is our modified plugin based on the "TV on Desi ZONE" plugin by Aj. This is modified to better fit the theme and funcationality.
 
 Please support Aj for originally credting this plugin if you wish.
